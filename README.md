@@ -1,5 +1,5 @@
 Token (Base)
-TBA
+0x690Fe5Ff3685270CEFFC87C29699e4E494B93031
 
 Token (Ethereum)
 TBA
